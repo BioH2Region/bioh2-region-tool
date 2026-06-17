@@ -35,8 +35,6 @@ Es ist Teil der Aktivität 2.1 *„Begriffsdefinitionen und Regulatorik"* mit de
 | Business Upper Austria | AT | [biz-up.at](https://www.biz-up.at/) |
 
 ## Technische Details
-
-- **Single-File HTML** — keine externen Abhängigkeiten außer Google Fonts
 - **Vollständig clientseitig** — funktioniert offline, sobald geladen
 - **Eingebettete Logos** als Base64 für maximale Portabilität
 - **Datenstruktur** als JavaScript-Arrays direkt in `index.html` — Regulierungen, Standorte und Kontakte sind leicht editierbar
